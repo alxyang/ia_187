@@ -34,6 +34,15 @@ footer {
   padding-bottom:40px;
 }
 
+.full-bg {
+  background: url(../img/wood-grayscale.png) no-repeat center center fixed; 
+  color: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .full-width-image-1 {
   background: url(../img/about1.jpg) no-repeat center center;
   background-size: cover;
