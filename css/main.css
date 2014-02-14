@@ -94,7 +94,8 @@ body {
 }
 
 .header-image{
-background: url(http://lorempixel.com/1920/500/abstract/3) no-repeat center center;
+/*background: url(http://lorempixel.com/1920/500/abstract/3) no-repeat center center;*/
+background: url(../img/pattonhall.jpg) no-repeat center center;
 background-size: cover;
 text-align: center;
 padding: 100px 0;
