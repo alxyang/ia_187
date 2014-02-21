@@ -1,0 +1,109 @@
+.download-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background-color: #0A0A0A;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.gallery-placeholder{
+    padding-top: 15px;
+padding-bottom: 15px;
+}
+
+/*B&W*/
+.bw {
+
+    -webkit-filter: grayscale(50%);
+}
+ 
+.bw:hover {
+      -webkit-transition: all 1s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+  -webkit-filter: grayscale(0%);
+}
+
+
+
+/* Set the fixed height of the footer here */
+#footer {
+height: 50px;
+background-color: black;
+}
+
+.credit {
+margin: 15px 0;
+font-size: 13px;
+}
+
+.contact-spacing{
+    padding-bottom:90px;
+}
+
+.home-quote{
+    font-size: 40px;
+}
+
+.home-quote-source{
+    font-size:12px;
+}
+
+.brand-spacing{
+    margin-top: 84px;
+margin-bottom: 0px;
+}
+.about-text-spacing{
+    margin-bottom:100px;
+}
+/*.content-section {
+    padding-top: 100px;
+}*/
+
+@media(min-width:767px) {
+    .content-section {
+        padding-top: 103px;
+    }
+    .content-mod-section {
+        padding-top: 50px;
+    }
+
+    .download-section {
+        padding: 103px 0;
+    }
+}
+
+.row-black{
+   background-color: #0A0A0A;
+}
+
+.project-about-spacing{
+    padding-bottom:95px;
+}
+
+.project-about-spacing-1{
+    padding-bottom:13px;
+}
+
+.proj-screenshot{
+    width:70%;
+    height: auto;
+
+}
+
+.about-spacing-proj-1{
+    padding-top: 125px;
+}
+
+.about-spacing-proj-3{
+    padding-top: 138px;
+}
+
+/*.proj-screenshot-spacing{
+    display: table-cell;float: none;height: 300px ;vertical-align: middle;
+}*/
