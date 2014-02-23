@@ -1,10 +1,25 @@
 /* BOOTSTRAP 3.x GLOBAL STYLES
 -------------------------------------------------- */
 body {
+  padding-top: 50px;
   padding-bottom: 40px;
   color: #5a5a5a;
 }
 
+.header-image{
+background: url(http://lorempixel.com/1920/500/abstract/3) no-repeat center center;
+background-size: cover;
+text-align: center;
+padding: 100px 0;
+}
+.header-text{
+  color: white;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.tab-container-padding{
+  padding-top:30px;
+}
 
 
 /* CUSTOMIZE THE NAVBAR
