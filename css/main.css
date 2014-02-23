@@ -6,6 +6,15 @@ body {
   color: #5a5a5a;
 }
 
+.lead-margin{
+  margin-bottom:10px;
+}
+
+.featurettes{
+  padding-left:100px;
+  padding-right:100px;
+}
+
 .header-image{
 background: url(http://lorempixel.com/1920/500/abstract/3) no-repeat center center;
 background-size: cover;
@@ -42,7 +51,6 @@ padding: 100px 0;
 /* Carousel base class */
 .carousel {
   margin-bottom: 60px;
-  margin-top:51px;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -95,8 +103,6 @@ min-height: 500px; /* <--- Change this line to min-height */
 }
 .featurette {
 overflow: hidden;
-padding-left: 150px;
-padding-right: 150px;
 }
 
 .featurette-image.pull-left {
