@@ -5,6 +5,9 @@ body {
   padding-bottom: 40px;
   color: #5a5a5a;
 }
+.page-header{
+  margin: 35px 0 20px;
+}
 
 .lead-margin{
   margin-bottom:10px;
@@ -25,6 +28,10 @@ padding: 100px 0;
   color: white;
   padding-left: 100px;
   padding-right: 100px;
+}
+
+.no-text-padding{
+  padding-top:150px;
 }
 .tab-container-padding{
   padding-top:30px;
@@ -138,6 +145,11 @@ footer {
 
   /* Remve the edge padding needed for mobile */
   .marketing {
+    padding-top:20px;
+  }
+
+  .pad-bottom{
+    padding-bottom:25px;
   }
 
   /* Navbar positioning foo */
