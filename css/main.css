@@ -33,7 +33,9 @@
   font-size:150px;
 }
 
-
+.navbar-brand{
+  float:none;
+}
 .section {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -70,7 +72,9 @@ footer {
 }
 
 
-
+.logo{
+  margin-top:4px;
+}
 
 
 /* BOOTSTRAP 3.x GLOBAL STYLES
