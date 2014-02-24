@@ -112,6 +112,9 @@ min-height: 500px; /* <--- Change this line to min-height */
 overflow: hidden;
 }
 
+.featurette-image{
+}
+
 .featurette-image.pull-left {
   margin-right: 40px;
 }
