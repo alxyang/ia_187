@@ -41,13 +41,18 @@ footer {
   padding-bottom:40px;
 }
 
-.full-bg {
-  background: url(../img/wood-grayscale.png) no-repeat center center fixed; 
+
+.full {
+  background: url(../img/wood-grayscale.png) no-repeat center center; 
   color: white;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.dir-hp{
+  padding-top:30px;
 }
 
 .full-width-image-1 {
