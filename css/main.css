@@ -2,6 +2,10 @@
   margin-bottom:30px;
 }
 
+.list-decoration{
+  list-style-type: initial;
+}
+
 li, ul{
   list-style-type: none; 
 }
