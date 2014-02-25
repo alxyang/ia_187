@@ -1,6 +1,10 @@
 .footer-section{
   margin-bottom:30px;
 }
+
+li, ul{
+  list-style-type: none; 
+}
 #copyright{
 padding: 15px 0 15px;
 padding-left: 47px;
@@ -13,7 +17,6 @@ font-size:12px;
   color: #A5A5A5;
 }
 .footer-spacing{
-  margin-left:-30px;
 }
 
 .footer-section-header{
